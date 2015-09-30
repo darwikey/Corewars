@@ -2,8 +2,8 @@
 
 
 ##Etudiants :
-ANGELETTI Isabelle
-MAUPEU Xavier
+- ANGELETTI Isabelle
+- MAUPEU Xavier
 
 
 ##Pour compiler le projet Corewar :
@@ -21,6 +21,6 @@ MAUPEU Xavier
 
 
 Exemples :
-  corewars rc/bombardier_mobile.txt rc/duplicator2.txt
+- corewars rc/bombardier_mobile.txt rc/duplicator2.txt
 ou
-  corewars rc/bombardier_mobile.txt rc/duplicator2.txt step
+- corewars rc/bombardier_mobile.txt rc/duplicator2.txt step
